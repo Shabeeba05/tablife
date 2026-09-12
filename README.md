@@ -125,8 +125,6 @@ chrome://extensions
 
 ### Workflow
 
-![Workflow]
-
 *Closed tab → Cause of Death Analysis → Afterlife Assignment → Memorial Service → Official Documentation.*
 
 ---
