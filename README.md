@@ -115,7 +115,7 @@ chrome://extensions
 
 ### Death Certificate
 
-![Screenshot3](certificate.png)
+![Screenshot3](deathcertificate.png)
 
 *Government-issued Death Certificate generated for a fallen digital citizen.*
 
